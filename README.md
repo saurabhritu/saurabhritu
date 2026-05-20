@@ -21,10 +21,10 @@
 
 ### the stack i carry
 
-| metal | edge | air | cloud |
-|---|---|---|---|
-| C · C++ · FreeRTOS · ESP-IDF · Zephyr | LiteRT · TinyML · OpenCV · INT8 quant | MQTT · LoRaWAN · BLE · ESP-Mesh | FastAPI · AWS · Docker · Prometheus |
-| bare metal · Arduino · RPi · ESP32 | model compression · on-device inference | HTTP/REST · I2C · SPI · UART | Grafana · PostgreSQL · HiveMQ · MongoDB |
+| metal | edge | air | cloud | app |
+|---|---|---|---|---|---|
+| C · C++ · FreeRTOS · ESP-IDF · Zephyr | LiteRT · TinyML · OpenCV · INT8 quant | MQTT · LoRaWAN · BLE · ESP-Mesh | FastAPI · AWS · Docker · Prometheus | Flutter · Dart |
+| bare metal · Arduino · RPi · ESP32 | model compression · on-device inference | HTTP/REST · I2C · SPI · UART | Grafana · PostgreSQL · HiveMQ · MongoDB | BLE/WiFi provisioning · dashboards |
 
 ---
 
