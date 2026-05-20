@@ -1,12 +1,12 @@
 ```
 ╔══════════════════════════════════════════════╗
-║  µC → sensors → cloud → app → done.         ║
+║  µC → sensors → cloud → app → done.          ║
 ║  edge AI that stays at the edge.             ║
 ║  curiosity-driven engineering.               ║
 ╚══════════════════════════════════════════════╝
 ```
 
-**hello** — i turn hardware headaches into firmware that ships. *be curious.*
+**hello** — i turn hardware headaches into firmware that talks & acts. *be curious.*
 
 ---
 
@@ -26,7 +26,7 @@
 | ⚙️ firmware | C, C++, FreeRTOS, ESP-IDF, Zephyr, bare metal, Arduino, ESP32, RPi |
 | 🧠 edge AI | LiteRT, TinyML, OpenCV, INT8 quant, model compression, on-device inference |
 | 📡 connect | MQTT, LoRaWAN, BLE, ESP-Mesh, HTTP/REST, I2C, SPI, UART |
-| ☁️ cloud | FastAPI, AWS, Docker, Prometheus, Grafana, PostgreSQL, HiveMQ, MongoDB |
+| ☁️ cloud | FastAPI, AWS, Docker, PostgreSQL, HiveMQ, MongoDB, Prometheus, Grafana |
 | 📱 app | Flutter, Dart, BLE/WiFi provisioning, dashboards |
 
 ---
@@ -54,7 +54,7 @@
 
 ## 🧑‍🏫 workshop mode
 
-led IoT bootcamps across delhi & punjab (200+ students). mentored juniors on production C, OTA pipelines, and MQTT security. open to speaking, workshops, and collaboration.
+led IoT bootcamps across delhi & punjab (200+ students). mentored juniors on production C, AI & TinyML, OTA pipelines, MQTT security. open to speaking, workshops, and collaboration.
 
 ---
 
