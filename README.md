@@ -21,11 +21,11 @@
 
 ### the stack i carry
 
-`firmware` C · C++ · FreeRTOS · ESP-IDF · Zephyr · bare metal · Arduino · ESP32 · RPi  
-`edge` LiteRT · TinyML · OpenCV · INT8 quant · model compression · on-device inference  
-`connect` MQTT · LoRaWAN · BLE · ESP-Mesh · HTTP/REST · I2C · SPI · UART  
-`cloud` FastAPI · AWS · Docker · Prometheus · Grafana · PostgreSQL · HiveMQ · MongoDB  
-`app` Flutter · Dart · BLE/WiFi provisioning · dashboards
+**⚙️ firmware** — C, C++, FreeRTOS, ESP-IDF, Zephyr, bare metal, Arduino, ESP32, RPi  
+**🧠 edge AI** — LiteRT, TinyML, OpenCV, INT8 quant, model compression, on-device inference  
+**📡 connect** — MQTT, LoRaWAN, BLE, ESP-Mesh, HTTP/REST, I2C, SPI, UART  
+**☁️ cloud** — FastAPI, AWS, Docker, Prometheus, Grafana, PostgreSQL, HiveMQ, MongoDB  
+**📱 app** — Flutter, Dart, BLE/WiFi provisioning, dashboards
 
 ---
 
